@@ -1,6 +1,3 @@
-# SCRIPT: Base de um servidor HTTP (python 3)
-#
-
 # importacao das bibliotecas
 import socket
 import re
