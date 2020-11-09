@@ -1,4 +1,4 @@
-#by ricardomvv and RobsonCCarneiro
+#by ricardomvv 
 # importacao das bibliotecas
 import socket
 import re
